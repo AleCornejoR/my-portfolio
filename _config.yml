@@ -4,6 +4,16 @@ description: Personal portfolio showcasing projects, skills, and professional ex
 lang: en
 theme: jekyll-theme-minimal
 
-# URLs y configuración de despliegue
-baseurl: /my_portfolio # Cambia por el nombre de tu repositorio
-url: https://AleCornejoR.github.io
+# Información del autor
+author:
+  name: Rafael Alejandro Cornejo Rodríguez
+  email: tu-email@example.com
+  linkedin: https://linkedin.com/in/rafael-cornejo-rdz
+  github: https://github.com/AleCornejoR
+
+# Plugins útiles
+plugins:
+  - jekyll-seo-tag # Mejora SEO
+  - jekyll-sitemap # Genera un sitemap.xml
+  - jekyll-feed # Agrega RSS
+  - jekyll-paginate # Paginación para blogs o listas largas
