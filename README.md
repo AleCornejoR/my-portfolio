@@ -1,33 +1,24 @@
-# 👨‍💻 Rafael's Portfolio  
+# Hello there! 👋
 
-Welcome to my portfolio! This repository showcases my personal projects, skills, and professional experiences.  
+I'm a mechatronics engineering student at Tec, passionate about the intersection of mechanics and electronics. With hands-on experience in robotics, digital design, and smart manufacturing, I enjoy turning ideas into reality. I’ve worked with tools like SolidWorks, Arduino, and PLCs, but I know there’s always more to learn! 🌱
 
-## 🛠️ Skills  
+I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way. If you share similar interests, feel free to connect! 🚀
 
-- Programming Languages: Python, JavaScript, C++  
-- Web Development: HTML, CSS, React  
-- Tools & Frameworks: Git, OpenCV, TensorFlow  
+## Skills 💻
 
-## 📂 Projects  
+- **Programming Languages**: Python, C++, R, LaTeX, MATLAB
+- **Tools & Technologies**: SolidWorks, Blender, Arduino, KiCad, GIMP
+- **Areas of Interest**: Robotics, Automation, AI
 
-### 1. Project Name  
-Description: A brief description of the project.  
-Technologies: Python, Flask, etc.  
-Demo: [Link to demo](#)  
-Repo: [Link to repository](#)  
+## Get in Touch 📬
 
-### 2. Project Name  
-Description: Another project description.  
-Technologies: JavaScript, React, etc.  
-Demo: [Link to demo](#)  
-Repo: [Link to repository](#)  
+Feel free to reach out if you want to chat or collaborate!
 
-## 📞 Contact  
+- Email: [rafael.cornejo.rdz@gmail.com](mailto:rafael.cornejo.rdz@gmail.com)
+- LinkedIn: [rafael-cornejo-rdz](https://www.linkedin.com/in/rafael-cornejo-rdz)
 
-Feel free to reach out if you’d like to collaborate or discuss a project!  
+## Fun Facts 🎉
 
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-
-Thanks for visiting! 🌟
+- I love exploring new technologies and gadgets.
+- I enjoy working on DIY projects during my free time.
+- I'm an avid fan of robotics competitions!
