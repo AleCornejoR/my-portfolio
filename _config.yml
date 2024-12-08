@@ -3,7 +3,7 @@ title: Rafael Alejandro Cornejo Rodríguez
 description: Personal portfolio showcasing projects, skills, and professional experiences.
 lang: en
 remote_theme: pages-themes/minimal@v0.2.0
-
+show_downloads: false
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
