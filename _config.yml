@@ -1,9 +1,9 @@
 # Información básica
 title: Rafael Alejandro Cornejo Rodríguez
-logo: /my_assets/img/circ_logo.png
+# logo: /my_assets/img/circ_logo.png
 description: Personal portfolio showcasing projects, skills, and professional experiences.
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
