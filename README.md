@@ -3,7 +3,7 @@
 
 <!-- Título con HTML y Font Awesome -->
 <h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
-  <i class="fab fa-linkedin"></i> Hello there!
+  <i class="fa-solid fa-hand-sparkles"></i></i> Hello there!
 </h2>
 
 <!-- Bloque de presentación con estilo uniforme -->
