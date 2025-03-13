@@ -55,25 +55,31 @@ Feel free to reach out if you want to chat or collaborate!
 
 ## Licenses & Certifications 🏆  
 
-### **ASSOCIATE - Mechanical Design**  
-**Dassault Systèmes**  
-📅 *Issued Mar 2024*  
-🔗 [View Credential](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729)  
-🆔 **Credential ID:** C-GMCRP6X729  
+```
+ASSOCIATE - Mechanical Design
+Dassault Systèmes
+📅 Issued Mar 2024
+🔗 View Credential: https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729
+🆔 Credential ID: C-GMCRP6X729
+```
 
-### **In-Sight Spreadsheet Scholar**  
-**Canvas Credentials (Badgr)**  
-📅 *Issued Mar 2024*  
-🔗 [View Credential](https://api.badgr.io/public/assertions/U29-szh_ShyKUIMyCy-Zfw?identity__email=a00830973%40tec.mx)  
-🆔 **Credential ID:** 65e5516fb72f7611a969f934  
+> **In-Sight Spreadsheet Scholar**  
+> **Canvas Credentials (Badgr)**  
+> 📅 *Issued Mar 2024*  
+> 🔗 [View Credential](https://api.badgr.io/public/assertions/U29-szh_ShyKUIMyCy-Zfw?identity__email=a00830973%40tec.mx)  
+> 🆔 **Credential ID:** 65e5516fb72f7611a969f934  
 
-### **In-Sight EasyBuilder Scholar**  
-**Canvas Credentials (Badgr)**  
-📅 *Issued Feb 2024*  
-🔗 [View Credential](https://api.badgr.io/public/assertions/mvssYe59TsW1AbgtD44BNQ?identity__email=a00830973%40tec.mx)  
-🆔 **Credential ID:** 65de57ccd5e916758e4830d9  
+> **In-Sight EasyBuilder Scholar**  
+> **Canvas Credentials (Badgr)**  
+> 📅 *Issued Feb 2024*  
+> 🔗 [View Credential](https://api.badgr.io/public/assertions/mvssYe59TsW1AbgtD44BNQ?identity__email=a00830973%40tec.mx)  
+> 🆔 **Credential ID:** 65de57ccd5e916758e4830d9  
 
-### **EDUCATIONAL ROBOTICS TRAINING - CORE (ES)**  
-**Universal Robots**  
-📅 *Issued Feb 2024*  
-🆔 **Credential ID:** E202402292538510  
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background: #f9f9f9;">
+<strong>ASSOCIATE - Mechanical Design</strong><br>
+<b>Dassault Systèmes</b><br>
+📅 Issued Mar 2024<br>
+🔗 <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729">View Credential</a><br>
+🆔 <b>Credential ID:</b> C-GMCRP6X729
+</div>
+
