@@ -1,3 +1,6 @@
+<!-- Incluir Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 ## 👋 Hello there!
 
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
@@ -83,8 +86,9 @@
   <p style="font-weight: bold; text-align: center;">Feel free to reach out if you want to chat or collaborate!</p>
 
   <ul style="list-style-type: none; padding-left: 0;">
-    <li>📧 <b>Email:</b> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a></li>
-    <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a></li>
+    <li><i class="fas fa-envelope"></i> <b>Email:</b> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a></li>
+    <li><i class="fab fa-linkedin"></i> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a></li>
+    <li><i class="fab fa-github"></i> <b>GitHub:</b> <a href="https://github.com/yourusername">yourusername</a></li>
   </ul>
 </div>
 
