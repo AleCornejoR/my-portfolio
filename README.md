@@ -67,7 +67,7 @@
 
 <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <b><a href="https://doi.org/10.1002/adhm.202401735">
-  Large Scale Ultrafast Manufacturing of Wireless Soft Bioelectronics...</a></b><br>
+  Large Scale Ultrafast Manufacturing of Wireless Soft Bioelectronics Enabled by Autonomous Robot Arm Printing Assisted by a Computer Vision-Enabled Guidance System for Personalized Wound Healing</a></b><br>
   <i>Published in Advanced Healthcare Materials · Nov 15, 2024</i><br><br>
   This article introduces <b>CARE</b>, an innovative wound patch for advanced tissue regeneration using electric fields.  
   Manufactured with an autonomous robot arm guided by computer vision, CARE enables rapid production of  
@@ -79,10 +79,13 @@
 
 ## 📬 Get in Touch  
 
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center; margin-bottom: 20px;">
-  Feel free to reach out if you want to chat or collaborate!<br><br>
-  📧 <b>Email:</b> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a><br>
-  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a>
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <p style="font-weight: bold; text-align: center;">Feel free to reach out if you want to chat or collaborate!</p>
+
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>📧 <b>Email:</b> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a></li>
+    <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a></li>
+  </ul>
 </div>
 
 <br>
