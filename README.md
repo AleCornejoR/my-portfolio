@@ -55,34 +55,37 @@ Feel free to reach out if you want to chat or collaborate!
 
 ## Licenses & Certifications 🏆  
 
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background: #f9f9f9;">
-<strong>ASSOCIATE - Mechanical Design</strong><br>
-<b>Dassault Systèmes</b><br>
-📅 Issued Mar 2024<br>
-🔗 <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729">View Credential</a><br>
-🆔 <b>Credential ID:</b> C-GMCRP6X729
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background: #f9f9f9;">
-<strong>In-Sight Spreadsheet Scholar</strong><br>
-<b>Canvas Credentials (Badgr)</b><br>
-📅 Issued Mar 2024<br>
-🔗 <a href="https://api.badgr.io/public/assertions/U29-szh_ShyKUIMyCy-Zfw?identity__email=a00830973%40tec.mx">View Credential</a><br>
-🆔 <b>Credential ID:</b> 65e5516fb72f7611a969f934
-</div>
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 45%; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+    <strong>ASSOCIATE - Mechanical Design</strong><br>
+    <b>Dassault Systèmes</b><br>
+    📅 Issued Mar 2024<br>
+    🔗 <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729">View Credential</a><br>
+    🆔 <b>Credential ID:</b> C-GMCRP6X729
+  </div>
 
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background: #f9f9f9;">
-<strong>In-Sight EasyBuilder Scholar</strong><br>
-<b>Canvas Credentials (Badgr)</b><br>
-📅 Issued Feb 2024<br>
-🔗 <a href="https://api.badgr.io/public/assertions/mvssYe59TsW1AbgtD44BNQ?identity__email=a00830973%40tec.mx">View Credential</a><br>
-🆔 <b>Credential ID:</b> 65de57ccd5e916758e4830d9
-</div>
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 45%; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+    <strong>In-Sight Spreadsheet Scholar</strong><br>
+    <b>Canvas Credentials (Badgr)</b><br>
+    📅 Issued Mar 2024<br>
+    🔗 <a href="https://api.badgr.io/public/assertions/U29-szh_ShyKUIMyCy-Zfw?identity__email=a00830973%40tec.mx">View Credential</a><br>
+    🆔 <b>Credential ID:</b> 65e5516fb72f7611a969f934
+  </div>
 
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background: #f9f9f9;">
-<strong>EDUCATIONAL ROBOTICS TRAINING - CORE (ES)</strong><br>
-<b>Universal Robots</b><br>
-📅 Issued Feb 2024<br>
-🆔 <b>Credential ID:</b> E202402292538510
-</div>
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 45%; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+    <strong>In-Sight EasyBuilder Scholar</strong><br>
+    <b>Canvas Credentials (Badgr)</b><br>
+    📅 Issued Feb 2024<br>
+    🔗 <a href="https://api.badgr.io/public/assertions/mvssYe59TsW1AbgtD44BNQ?identity__email=a00830973%40tec.mx">View Credential</a><br>
+    🆔 <b>Credential ID:</b> 65de57ccd5e916758e4830d9
+  </div>
 
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 45%; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+    <strong>EDUCATIONAL ROBOTICS TRAINING - CORE (ES)</strong><br>
+    <b>Universal Robots</b><br>
+    📅 Issued Feb 2024<br>
+    🆔 <b>Credential ID:</b> E202402292538510
+  </div>
+
+</div>
