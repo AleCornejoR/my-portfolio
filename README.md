@@ -1,14 +1,21 @@
 <!-- Incluir Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-## 👋 Hello there!
+<!-- Título con HTML y Font Awesome -->
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+  <i class="fas fa-hand-wave"></i> Hello there!
+</h2>
 
+<!-- Bloque de presentación con estilo uniforme -->
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
 
-  <p style="font-size: 16px;">
-    I'm a mechatronics engineering student at Tec, passionate about the intersection of <b>mechanics and electronics</b>.  
-    With hands-on experience in <b>robotics, digital design, and smart manufacturing</b>, I enjoy turning ideas into reality.  
-    I’ve worked with tools like <b>SolidWorks, Arduino, and PLCs</b>, but I know there’s always more to learn! 🌱
+  <p style="font-size: 16px; text-align: justify;">
+    I'm a mechatronics engineering student at Tec, passionate about the intersection of 
+    <b>mechanics and electronics</b>.  
+    With hands-on experience in <b>robotics, digital design, and smart manufacturing</b>, 
+    I enjoy turning ideas into reality.  
+    I’ve worked with tools like <b>SolidWorks, Arduino, and PLCs</b>, 
+    but I know there’s always more to learn! 🌱
   </p>
 
   <p style="font-size: 16px; text-align: center; font-weight: bold;">
