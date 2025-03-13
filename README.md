@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 💻 Skills  
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
@@ -34,8 +32,6 @@
   </div>
 
 </div>
-
----
 
 ## 🔬 Experience  
 
@@ -61,8 +57,6 @@
 
 </div>
 
----
-
 ## 📄 Publications  
 
 <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
@@ -75,8 +69,6 @@
   accelerate wound healing through effective electrical stimulation.
 </div>
 
----
-
 ## 📬 Get in Touch  
 
 <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center;">
@@ -84,8 +76,6 @@
   📧 <b>Email:</b> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a><br>
   🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a>
 </div>
-
----
 
 ## 🏆 Licenses & Certifications  
 
