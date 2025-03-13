@@ -85,10 +85,10 @@
 <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <p style="font-weight: bold; text-align: center;">Feel free to reach out if you want to chat or collaborate!</p>
 
-  <ul style="list-style-type: none; padding-left: 0;">
+  <ul style="list-style-type: none;">
     <li> <a href="mailto:rafael.cornejo.rdz@gmail.com"><i class="fas fa-envelope"></i> rafael.cornejo.rdz@gmail.com</a></li>
     <li> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz"><i class="fab fa-linkedin"></i> rafael-cornejo-rdz</a></li>
-    <li> <a href="https://github.com/yourusername"><i class="fab fa-github"></i> yourusername</a></li>
+    <li> <a href="https://github.com/AleCornejoR"><i class="fab fa-github"></i> AleCornejoR</a></li>
   </ul>
 </div>
 
