@@ -15,12 +15,12 @@
     With hands-on experience in <b>robotics, digital design, and smart manufacturing</b>, 
     I enjoy turning ideas into reality.  
     I’ve worked with tools like <b>SolidWorks, Arduino, and PLCs</b>, 
-    but I know there’s always more to learn! 🌱
+    but I know there’s always more to learn! <i class="fa-solid fa-seedling"></i>
   </p>
 
   <p style="font-size: 16px; text-align: center; font-weight: bold;">
     I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way.  
-    If you share similar interests, feel free to connect! 🚀
+    If you share similar interests, feel free to connect! <i class="fa-solid fa-rocket"></i>
   </p>
 
 </div>
