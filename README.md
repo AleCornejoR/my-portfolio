@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-<div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+<div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
 
   <p style="font-size: 16px; text-align: justify;">
     I'm a mechatronics engineering student at Tec, passionate about the intersection of <b>mechanics and electronics</b>.  
@@ -15,9 +15,11 @@
 
 </div>
 
+<br>
+
 ## 💻 Skills  
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 20px;">
 
   <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <b>Programming Languages:</b><br> Python, C++, R, LaTeX, MATLAB
@@ -33,49 +35,57 @@
 
 </div>
 
+<br>
+
 ## 🔬 Experience  
 
-<div style="display: flex; flex-direction: column; gap: 15px;">
+<div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 20px;">
 
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <b>Research Intern</b><br>
     <i>Harvard Medical School · Apprenticeship</i><br>
     📅 Jul 2024 – Present · 📍 Cambridge, Massachusetts, United States (On-site)<br><br>
-    - Working on **INSIGHT**, an advanced computer vision system integrating a depth camera with a 6-DOF robotic arm.<br>
-    - Developing real-time **target area identification** and **volumetric printing** for personalized wound care solutions.<br>
-    - Enhancing efficiency and adaptability in **medical robotics applications**.
+    - Working on <b>INSIGHT</b>, an advanced computer vision system integrating a depth camera with a 6-DOF robotic arm.<br>
+    - Developing real-time <b>target area identification</b> and <b>volumetric printing</b> for personalized wound care solutions.<br>
+    - Enhancing efficiency and adaptability in <b>medical robotics applications</b>.
   </div>
 
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <b>Maintenance Intern</b><br>
     <i>Palmex Alimentos SA de CV · Internship</i><br>
     📅 Mar 2024 – May 2024 (3 mos) · 📍 Santa Catarina, Nuevo León, Mexico (On-site)<br><br>
-    - Assisted in the **preventive and corrective maintenance** of industrial machinery.<br>
-    - Analyzed system performance and proposed **efficiency improvements** in manufacturing processes.<br>
-    - Worked with **automated systems** to ensure optimal production workflow.
+    - Assisted in the <b>preventive and corrective maintenance</b> of industrial machinery.<br>
+    - Analyzed system performance and proposed <b>efficiency improvements</b> in manufacturing processes.<br>
+    - Worked with <b>automated systems</b> to ensure optimal production workflow.
   </div>
 
 </div>
 
+<br>
+
 ## 📄 Publications  
 
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <b><a href="https://doi.org/10.1002/adhm.202401735">
   Large Scale Ultrafast Manufacturing of Wireless Soft Bioelectronics...</a></b><br>
   <i>Published in Advanced Healthcare Materials · Nov 15, 2024</i><br><br>
-  This article introduces **CARE**, an innovative wound patch for advanced tissue regeneration using electric fields.  
+  This article introduces <b>CARE</b>, an innovative wound patch for advanced tissue regeneration using electric fields.  
   Manufactured with an autonomous robot arm guided by computer vision, CARE enables rapid production of  
   personalized bioelectronics for electrotherapy. The study highlights its potential as a clinical method to  
   accelerate wound healing through effective electrical stimulation.
 </div>
 
+<br>
+
 ## 📬 Get in Touch  
 
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center;">
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center; margin-bottom: 20px;">
   Feel free to reach out if you want to chat or collaborate!<br><br>
   📧 <b>Email:</b> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a><br>
   🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a>
 </div>
+
+<br>
 
 ## 🏆 Licenses & Certifications  
 
