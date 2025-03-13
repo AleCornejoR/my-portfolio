@@ -1,8 +1,19 @@
-# Hello there! 👋
+<div style="border: 2px solid #ffcc00; padding: 20px; border-radius: 10px; background: #fff9db; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 
-I'm a mechatronics engineering student at Tec, passionate about the intersection of mechanics and electronics. With hands-on experience in robotics, digital design, and smart manufacturing, I enjoy turning ideas into reality. I’ve worked with tools like SolidWorks, Arduino, and PLCs, but I know there’s always more to learn! 🌱
+<h1 style="text-align: center;">👋 Hello there!</h1>
 
-I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way. If you share similar interests, feel free to connect! 🚀
+<p style="font-size: 16px; text-align: justify;">
+I'm a mechatronics engineering student at Tec, passionate about the intersection of <b>mechanics and electronics</b>. 
+With hands-on experience in <b>robotics, digital design, and smart manufacturing</b>, I enjoy turning ideas into reality.  
+I’ve worked with tools like <b>SolidWorks, Arduino, and PLCs</b>, but I know there’s always more to learn! 🌱
+</p>
+
+<p style="font-size: 16px; text-align: center; font-weight: bold;">
+I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way.  
+If you share similar interests, feel free to connect! 🚀
+</p>
+
+</div>
 
 ## Skills 💻
 
