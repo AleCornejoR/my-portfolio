@@ -86,9 +86,9 @@
   <p style="font-weight: bold; text-align: center;">Feel free to reach out if you want to chat or collaborate!</p>
 
   <ul style="list-style-type: none; padding-left: 0;">
-    <li><i class="fas fa-envelope"></i> <a href="mailto:rafael.cornejo.rdz@gmail.com">rafael.cornejo.rdz@gmail.com</a></li>
-    <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz">rafael-cornejo-rdz</a></li>
-    <li><i class="fab fa-github"></i> <a href="https://github.com/AleCornejoR">AleCornejoR</a></li>
+    <li> <a href="mailto:rafael.cornejo.rdz@gmail.com"><i class="fas fa-envelope"></i> rafael.cornejo.rdz@gmail.com</a></li>
+    <li> <a href="https://www.linkedin.com/in/rafael-cornejo-rdz"><i class="fab fa-linkedin"></i> rafael-cornejo-rdz</a></li>
+    <li> <a href="https://github.com/yourusername"><i class="fab fa-github"></i> yourusername</a></li>
   </ul>
 </div>
 
