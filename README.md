@@ -133,9 +133,9 @@
   <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>ASSOCIATE - Mechanical Design</strong><br>
     <b>Dassault Systèmes</b><br>
-    📅 Issued Mar 2024<br>
-    🔗 <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729">View Credential</a><br>
-    🆔 <b>Credential ID:</b> C-GMCRP6X729
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
+    <i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;<a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729">View Credential</a><br>
+    <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> C-GMCRP6X729
   </div>
 
   <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
