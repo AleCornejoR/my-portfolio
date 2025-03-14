@@ -141,24 +141,24 @@
   <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>In-Sight Spreadsheet Scholar</strong><br>
     <b>Canvas Credentials (Badgr)</b><br>
-    📅 Issued Mar 2024<br>
-    🔗 <a href="https://api.badgr.io/public/assertions/U29-szh_ShyKUIMyCy-Zfw?identity__email=a00830973%40tec.mx">View Credential</a><br>
-    🆔 <b>Credential ID:</b> 65e5516fb72f7611a969f934
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
+    <a href="https://api.badgr.io/public/assertions/U29-szh_ShyKUIMyCy-Zfw?identity__email=a00830973%40tec.mx"><i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;View Credential</a><br>
+    <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> 65e5516fb72f7611a969f934
   </div>
 
   <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>In-Sight EasyBuilder Scholar</strong><br>
     <b>Canvas Credentials (Badgr)</b><br>
-    📅 Issued Feb 2024<br>
-    🔗 <a href="https://api.badgr.io/public/assertions/mvssYe59TsW1AbgtD44BNQ?identity__email=a00830973%40tec.mx">View Credential</a><br>
-    🆔 <b>Credential ID:</b> 65de57ccd5e916758e4830d9
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Feb 2024<br>
+    <a href="https://api.badgr.io/public/assertions/mvssYe59TsW1AbgtD44BNQ?identity__email=a00830973%40tec.mx"><i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;View Credential</a><br>
+    <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> 65de57ccd5e916758e4830d9
   </div>
 
   <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>EDUCATIONAL ROBOTICS TRAINING - CORE (ES)</strong><br>
     <b>Universal Robots</b><br>
-    📅 Issued Feb 2024<br>
-    🆔 <b>Credential ID:</b> E202402292538510
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Feb 2024<br>
+    <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> E202402292538510
   </div>
 
 </div>
