@@ -60,8 +60,8 @@
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <b>Research Intern</b><br>
     <i>Harvard Medical School · Apprenticeship</i><br>
-    <i class="fas fa-calendar-alt"></i> Jul 2024 – Present <br>
-    <i class="fas fa-map-marker-alt"></i> Cambridge, Massachusetts, United States (On-site)<br><br>
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Jul 2024 – Present <br>
+    <i class="fas fa-map-marker-alt"></i>&nbsp;&nbsp;&nbsp;Cambridge, Massachusetts, United States (On-site)<br><br>
     - Working on <b>INSIGHT</b>, an advanced computer vision system integrating a depth camera with a 6-DOF robotic arm.<br>
     - Developing real-time <b>target area identification</b> and <b>volumetric printing</b> for personalized wound care solutions.<br>
     - Enhancing efficiency and adaptability in <b>medical robotics applications</b>.
@@ -70,8 +70,8 @@
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
       <b>Maintenance Intern</b><br>
       <i>Palmex Alimentos SA de CV · Internship</i><br>
-      <i class="fas fa-calendar-alt"></i>  Mar 2024 – May 2024 <br>
-    <i class="fas fa-map-marker-alt"></i>  Santa Catarina, Nuevo León, Mexico (On-site)<br><br>
+      <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Mar 2024 – May 2024 <br>
+      <i class="fas fa-map-marker-alt"></i>&nbsp;&nbsp;&nbsp;Santa Catarina, Nuevo León, Mexico (On-site)<br><br>
       - Assisted in the <b>preventive and corrective maintenance</b> of industrial machinery.<br>
       - Analyzed system performance and proposed <b>efficiency improvements</b> in manufacturing processes.<br>
       - Worked with <b>automated systems</b> to ensure optimal production workflow.
@@ -81,12 +81,16 @@
 
 <br>
 
-## 📄 Publications  
+<!-- Título con HTML y Font Awesome -->
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+  <i class="fa-solid fa-file-lines"></i> Publications
+</h2>  
 
 <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <b><a href="https://doi.org/10.1002/adhm.202401735">
   Large Scale Ultrafast Manufacturing of Wireless Soft Bioelectronics Enabled by Autonomous Robot Arm Printing Assisted by a Computer Vision-Enabled Guidance System for Personalized Wound Healing</a></b><br>
-  <i>Published in Advanced Healthcare Materials · Nov 15, 2024</i><br><br>
+  <i>Published in Advanced Healthcare Materials <br>
+  <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Nov 15, 2024</i><br><br>
   This article introduces <b>CARE</b>, an innovative wound patch for advanced tissue regeneration using electric fields.  
   Manufactured with an autonomous robot arm guided by computer vision, CARE enables rapid production of  
   personalized bioelectronics for electrotherapy. The study highlights its potential as a clinical method to  
