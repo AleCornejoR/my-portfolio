@@ -1,6 +1,6 @@
 <style>
   h2 {
-    color: #007bff; /* Azul brillante */
+    color: #2980b9; /* Azul brillante */
   }
 </style>
 
