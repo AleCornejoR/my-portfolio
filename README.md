@@ -76,9 +76,13 @@
       <i>Palmex Alimentos SA de CV · Internship</i><br>
       <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Mar 2024 – May 2024 <br>
       <i class="fas fa-map-marker-alt"></i>&nbsp;&nbsp;&nbsp;Santa Catarina, Nuevo León, Mexico (On-site)<br><br>
-      - Assisted in the <b>preventive and corrective maintenance</b> of industrial machinery.<br>
-      - Analyzed system performance and proposed <b>efficiency improvements</b> in manufacturing processes.<br>
-      - Worked with <b>automated systems</b> to ensure optimal production workflow.
+      <ul style="padding-left: 20px;">
+        <li>Assisted in the <b>preventive and corrective maintenance</b> of industrial machinery.</li>
+        <ul style="padding-left: 20px;">
+            <li>Analyzed system performance and proposed <b>efficiency improvements</b> in manufacturing processes.</li>
+            <li>Worked with <b>automated systems</b> to ensure optimal production workflow.</li>
+        </ul>
+      </ul>
   </div>
 
 </div>
