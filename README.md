@@ -107,7 +107,10 @@
 
 <br>
 
-## 📬 Get in Touch  
+<!-- Título con HTML y Font Awesome -->
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+  <i class="fa-solid fa-comments"></i> Get in Touch
+</h2>  
 
 <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <p style="font-weight: bold; text-align: center;">Feel free to reach out if you want to chat or collaborate!</p>
@@ -121,7 +124,9 @@
 
 <br>
 
-## 🏆 Licenses & Certifications  
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+  <i class="fa-solid fa-certificate"></i>  Licenses & Certifications
+</h2>  
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
