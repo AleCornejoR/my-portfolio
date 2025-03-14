@@ -50,26 +50,29 @@
 
 <br>
 
-## 🔬 Experience  
+<!-- Título con HTML y Font Awesome -->
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+  <i class="fa-solid fa-vial"></i></i> Experience
+</h2>  
 
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 20px;">
 
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <b>Research Intern</b><br>
     <i>Harvard Medical School · Apprenticeship</i><br>
-    📅 Jul 2024 – Present · 📍 Cambridge, Massachusetts, United States (On-site)<br><br>
+    <i class="fas fa-calendar-alt"></i> Jul 2024 – Present · <i class="fas fa-map-marker-alt"></i> Cambridge, Massachusetts, United States (On-site)<br><br>
     - Working on <b>INSIGHT</b>, an advanced computer vision system integrating a depth camera with a 6-DOF robotic arm.<br>
     - Developing real-time <b>target area identification</b> and <b>volumetric printing</b> for personalized wound care solutions.<br>
     - Enhancing efficiency and adaptability in <b>medical robotics applications</b>.
   </div>
-
+  
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Maintenance Intern</b><br>
-    <i>Palmex Alimentos SA de CV · Internship</i><br>
-    📅 Mar 2024 – May 2024 (3 mos) · 📍 Santa Catarina, Nuevo León, Mexico (On-site)<br><br>
-    - Assisted in the <b>preventive and corrective maintenance</b> of industrial machinery.<br>
-    - Analyzed system performance and proposed <b>efficiency improvements</b> in manufacturing processes.<br>
-    - Worked with <b>automated systems</b> to ensure optimal production workflow.
+      <b>Maintenance Intern</b><br>
+      <i>Palmex Alimentos SA de CV · Internship</i><br>
+      <i class="fas fa-calendar-alt"></i> Mar 2024 – May 2024 (3 mos) · <i class="fas fa-map-marker-alt"></i> Santa Catarina, Nuevo León, Mexico (On-site)<br><br>
+      - Assisted in the <b>preventive and corrective maintenance</b> of industrial machinery.<br>
+      - Analyzed system performance and proposed <b>efficiency improvements</b> in manufacturing processes.<br>
+      - Worked with <b>automated systems</b> to ensure optimal production workflow.
   </div>
 
 </div>
