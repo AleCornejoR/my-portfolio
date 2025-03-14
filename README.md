@@ -134,7 +134,7 @@
     <strong>ASSOCIATE - Mechanical Design</strong><br>
     <b>Dassault Systèmes</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
-    <i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;<a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729">View Credential</a><br>
+    <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-GMCRP6X729"><i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;View Credential</a><br>
     <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> C-GMCRP6X729
   </div>
 
