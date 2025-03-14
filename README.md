@@ -62,9 +62,13 @@
     <i>Harvard Medical School · Apprenticeship</i><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Jul 2024 – Present <br>
     <i class="fas fa-map-marker-alt"></i>&nbsp;&nbsp;&nbsp;Cambridge, Massachusetts, United States (On-site)<br><br>
-    - Working on <b>INSIGHT</b>, an advanced computer vision system integrating a depth camera with a 6-DOF robotic arm.<br>
-    - Developing real-time <b>target area identification</b> and <b>volumetric printing</b> for personalized wound care solutions.<br>
-    - Enhancing efficiency and adaptability in <b>medical robotics applications</b>.
+    <ul style="padding-left: 20px;">
+    <li><b>INSIGHT</b>, an advanced computer vision system integrating a depth camera with a 6-DOF robotic arm.</li>
+    <ul style="padding-left: 20px;">
+        <li>Developing real-time <b>target area identification</b> and <b>volumetric printing</b> for personalized wound care solutions.</li>
+        <li>Enhancing efficiency and adaptability in <b>medical robotics applications</b>.</li>
+    </ul>
+</ul>
   </div>
   
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
