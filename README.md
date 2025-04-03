@@ -97,6 +97,12 @@
 
 <!-- Título con HTML y Font Awesome -->
 <h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+  <i class="fa-solid fa-pencil"></i></i> Projects
+</h2>  
+<br>
+
+<!-- Título con HTML y Font Awesome -->
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
   <i class="fa-solid fa-file-lines"></i> Publications
 </h2>  
 
