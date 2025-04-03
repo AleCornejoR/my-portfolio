@@ -97,8 +97,25 @@
 
 <!-- Título con HTML y Font Awesome -->
 <h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
-  <i class="fa-solid fa-pencil"></i></i> Projects
-</h2>  
+  <i class="fa-solid fa-pencil"></i> Projects
+</h2> 
+
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  Project 1
+</div>
+
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  Project 2
+</div>
+
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  Project 3
+</div>
+
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  Project 4
+</div>
+
 <br>
 
 <!-- Título con HTML y Font Awesome -->
