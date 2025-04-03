@@ -96,7 +96,7 @@
 <br>
 
 <!-- Título con HTML y Font Awesome -->
-<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+<!--<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
   <i class="fa-solid fa-pencil"></i> Projects
 </h2> 
 
@@ -116,7 +116,7 @@
   Project 4
 </div>
 
-<br>
+<br>-->
 
 <!-- Título con HTML y Font Awesome -->
 <h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
