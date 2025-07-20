@@ -170,7 +170,7 @@
   </div>
 
   <!-- Other Tec Skills -->
-  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>Mechatronic Skills Certificates</strong><br>
     <b>Tecnológico de Monterrey (via Badgr)</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued 2025<br>
@@ -182,7 +182,7 @@
   </div>
 
   <!-- SOLIDWORKS CSWA -->
-  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>ASSOCIATE - Mechanical Design (CSWA)</strong><br>
     <b>SOLIDWORKS</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
@@ -191,7 +191,7 @@
   </div>
 
   <!-- Cognex Spreadsheet -->
-  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>In-Sight Spreadsheet Scholar</strong><br>
     <b>COGNEX (via Badgr)</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
@@ -200,7 +200,7 @@
   </div>
 
   <!-- Cognex EasyBuilder -->
-  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>In-Sight EasyBuilder Scholar</strong><br>
     <b>COGNEX (via Badgr)</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Feb 2024<br>
@@ -209,7 +209,7 @@
   </div>
 
   <!-- Universal Robots -->
-  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>Educational Robotics Training - CORE (ES)</strong><br>
     <b>UNIVERSAL ROBOTS</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Feb 2024<br>
