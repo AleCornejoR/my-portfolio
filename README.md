@@ -166,7 +166,6 @@
     <b>Tecnológico de Monterrey (Specialization)</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued 2025<br>
     <a href="https://badgr.com/public/assertions/Aby_NdgUQU-uzoyYrrDynw"><i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;View Credential</a><br>
-    <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> Aby_NdgUQU-uzoyYrrDynw
   </div>
 
   <!-- Other Tec Skills -->
