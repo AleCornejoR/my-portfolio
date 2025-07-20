@@ -160,8 +160,29 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
+  <!-- Cyber-Physical Systems (Highlight) -->
+  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+    <strong>Cyber-Physical Systems</strong><br>
+    <b>Tecnológico de Monterrey (Specialization)</b><br>
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued 2025<br>
+    <a href="https://badgr.com/public/assertions/Aby_NdgUQU-uzoyYrrDynw"><i class="fa-solid fa-up-right-from-square"></i>&nbsp;&nbsp;&nbsp;View Credential</a><br>
+    <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> Aby_NdgUQU-uzoyYrrDynw
+  </div>
+
+  <!-- Other Tec Skills -->
+  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+    <strong>Mechatronic Skills Certificates</strong><br>
+    <b>Tecnológico de Monterrey (via Badgr)</b><br>
+    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued 2025<br>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li><a href="https://badgr.com/public/assertions/CBZQwN_9RHuHzuh0KJATaw">Designs Mechatronic Systems</a></li>
+      <li><a href="https://badgr.com/public/assertions/H09a1wQtTea8nEm6IXlnWA">Automates Systems and Processes</a></li>
+      <li><a href="https://badgr.com/public/assertions/VRKd74DzTeq0bEZbO30rJg">Develops Proposals for Mechatronic Systems</a></li>
+    </ul>
+  </div>
+
   <!-- SOLIDWORKS CSWA -->
-  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>ASSOCIATE - Mechanical Design (CSWA)</strong><br>
     <b>SOLIDWORKS</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
@@ -170,7 +191,7 @@
   </div>
 
   <!-- Cognex Spreadsheet -->
-  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>In-Sight Spreadsheet Scholar</strong><br>
     <b>COGNEX (via Badgr)</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Mar 2024<br>
@@ -179,7 +200,7 @@
   </div>
 
   <!-- Cognex EasyBuilder -->
-  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>In-Sight EasyBuilder Scholar</strong><br>
     <b>COGNEX (via Badgr)</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Feb 2024<br>
@@ -188,25 +209,13 @@
   </div>
 
   <!-- Universal Robots -->
-  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
+  <div style="border: 2px solid #8000ff; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
     <strong>Educational Robotics Training - CORE (ES)</strong><br>
     <b>UNIVERSAL ROBOTS</b><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued Feb 2024<br>
     <i class="fa-solid fa-hashtag"></i>&nbsp;&nbsp;&nbsp;<b>Credential ID:</b> E202402292538510
   </div>
 
-  <!-- Tec Badgr Certs -->
-  <div style="border: 2px solid #ffcc00; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background: #fff;">
-    <strong>Mechatronic Skills Certificates</strong><br>
-    <b>Tecnológico de Monterrey (via Badgr)</b><br>
-    <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Issued 2025<br>
-    <ul style="margin-top: 10px; padding-left: 20px;">
-      <li><a href="https://badgr.com/public/assertions/CBZQwN_9RHuHzuh0KJATaw">Designs Mechatronic Systems</a></li>
-      <li><a href="https://badgr.com/public/assertions/H09a1wQtTea8nEm6IXlnWA">Automates Systems and Processes</a></li>
-      <li><a href="https://badgr.com/public/assertions/VRKd74DzTeq0bEZbO30rJg">Develops Proposals for Mechatronic Systems</a></li>
-      <li><a href="https://badgr.com/public/assertions/Aby_NdgUQU-uzoyYrrDynw">Cyber-Physical Systems</a></li>
-    </ul>
-  </div>
-
 </div>
+
 
