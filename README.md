@@ -16,12 +16,13 @@
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px;">
 
   <p style="font-size: 16px;">
-    I'm a mechatronics engineering student at Tec, passionate about the intersection of 
-    <b>mechanics and electronics</b>.  
+    I'm a <b>Mechatronics Engineer</b> passionate about the intersection of 
+    <b>mechanics, electronics, and intelligent automation</b>.  
     With hands-on experience in <b>robotics, digital design, and smart manufacturing</b>, 
-    I enjoy turning ideas into reality.  
+    I love turning innovative ideas into real-world solutions.  
     I’ve worked with tools like <b>SolidWorks, Arduino, and PLCs</b>, 
-    but I know there’s always more to learn! <i class="fa-solid fa-seedling"></i>
+    and I'm always eager to keep learning and building. 
+    <i class="fa-solid fa-seedling"></i>
   </p>
 
   <p style="font-size: 16px; text-align: center; font-weight: bold;">
