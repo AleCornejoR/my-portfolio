@@ -65,8 +65,8 @@
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 20px;">
 
   <div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Research Intern</b><br>
-    <i>Harvard Medical School · Apprenticeship</i><br>
+    <b>Division of Engineering in Medicine, Department of Medicine, Research Intern</b><br>
+    <i>Harvard Medical School · Brigham and Women's Hospital</i><br>
     <i class="fas fa-calendar-alt"></i>&nbsp;&nbsp;&nbsp;Jul 2024 – Jul 2025 <br>
     <i class="fas fa-map-marker-alt"></i>&nbsp;&nbsp;&nbsp;Cambridge, Massachusetts, United States (On-site)<br><br>
     <ul style="padding-left: 20px;">
