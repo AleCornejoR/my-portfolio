@@ -42,36 +42,22 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 20px;">
 
   <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Programming Languages:</b><br> Python, C++, R, LaTeX, MATLAB
+    <b>Programming & Software:</b><br> Python, C++, MATLAB/Simulink, SolidWorks, ROS2, OpenCV, TIA Portal, Blender, SAP, LaTeX
   </div>
 
   <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Tools & Technologies:</b><br> SolidWorks, Blender, Arduino, KiCad, GIMP
+    <b>Technical Skills:</b><br> CAD Modeling, Mechanical Design, Kinematics & Dynamics, FEA, PLC Programming, Embedded Systems, CNC Programming
   </div>
 
   <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Areas of Interest:</b><br> Robotics, Automation, AI
+    <b>Soft Skills:</b><br> Problem Solving, Systems Thinking, Team Collaboration, Technical Communication, Adaptability
   </div>
 
-  <!-- New blocks from resume -->
   <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <b>Languages:</b><br> Spanish (Native), English (B2 – Upper Intermediate)
   </div>
 
-  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Software:</b><br> SolidWorks, MATLAB/Simulink, Python, TIA Portal, ROS2, OpenCV, SAP, CNC Programming, PY Vision, Blender
-  </div>
-
-  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Technical:</b><br> Mechanical Design, CAD Modeling, Kinematics & Dynamics, FEA, PLC Programming, Embedded Systems
-  </div>
-
-  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <b>Soft Skills:</b><br> Problem Solving, Systems Thinking, Team Collaboration, Technical Communication, Proactive Learning, Adaptability
-  </div>
-
 </div>
-
 
 <br>
 
