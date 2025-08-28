@@ -53,7 +53,25 @@
     <b>Areas of Interest:</b><br> Robotics, Automation, AI
   </div>
 
+  <!-- New blocks from resume -->
+  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <b>Languages:</b><br> Spanish (Native), English (B2 – Upper Intermediate)
+  </div>
+
+  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <b>Software:</b><br> SolidWorks, MATLAB/Simulink, Python, TIA Portal, ROS2, OpenCV, SAP, CNC Programming, PY Vision, Blender
+  </div>
+
+  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <b>Technical:</b><br> Mechanical Design, CAD Modeling, Kinematics & Dynamics, FEA, PLC Programming, Embedded Systems
+  </div>
+
+  <div style="border: 2px solid #ddd; padding: 15px; width: 100%; max-width: 400px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <b>Soft Skills:</b><br> Problem Solving, Systems Thinking, Team Collaboration, Technical Communication, Proactive Learning, Adaptability
+  </div>
+
 </div>
+
 
 <br>
 
